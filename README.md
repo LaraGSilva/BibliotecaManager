@@ -1,4 +1,4 @@
-# Projeto de Prática de POO em Python: Gerenciamento de Biblioteca 📚
+# Projeto de Prática: Gerenciamento de Biblioteca 📚
 
 Este projeto foi desenvolvido para praticar os conceitos de Programação Orientada a Objetos (POO) na linguagem Python. Ele consiste em uma classe chamada `Livro`, que representa livros em uma biblioteca. A classe possui um construtor para inicializar os livros e uma lista para armazenar os novos livros criados (objetos). Além disso, utiliza decoradores de `property` para facilitar o retorno dos valores dos atributos e o método `classmethod` para indicar que o método pertence à classe.
 
